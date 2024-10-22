@@ -18,7 +18,7 @@ Welcome to the comprehensive guide for **SPSU Sports ERP**! Here, you'll find al
 - **Database and API Specialist:** [@self-Puneet](https://github.com/self-Puneet)  
   - Designs and manages database architecture  
   - Ensures optimal data storage and retrieval  
-  - Develops and maintains robust APIs  
+  - Develops and maintains APIs  
   - Facilitates seamless front-end and back-end communication  
 
 - **UI/UX Designer:** [@self-yash](https://www.github.com/self-yash)  

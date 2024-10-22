@@ -22,7 +22,7 @@ Welcome to the comprehensive guide for **SPSU Sports ERP**! Here, you'll find al
   - Facilitates seamless front-end and back-end communication  
 
 - **UI/UX Designer:** [@self-yash](https://www.github.com/self-yash)  
-  - Creates intuitive user interfaces  
+  - Creates intuitive user interface 
   - Conducts user research and usability testing  
   - Ensures visual appeal and user-friendliness  
   - Enhances overall user experience  
